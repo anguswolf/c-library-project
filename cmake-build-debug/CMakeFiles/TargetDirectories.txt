@@ -1,0 +1,3 @@
+C:/Users/Utente/Desktop/tnv/progetto_finale_tnv_xiv/cmake-build-debug/CMakeFiles/progetto_finale_tnv_xiv.dir
+C:/Users/Utente/Desktop/tnv/progetto_finale_tnv_xiv/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Utente/Desktop/tnv/progetto_finale_tnv_xiv/cmake-build-debug/CMakeFiles/rebuild_cache.dir

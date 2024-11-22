@@ -1,0 +1,23 @@
+# ninja log v6
+17	266	7444676891739887	CMakeFiles/progetto_finale_tnv_xiv.dir/main.c.obj	4edcdbff2561ddf9
+267	509	7444676894236852	progetto_finale_tnv_xiv.exe	3c39b1c9b1cf4600
+19	331	7444034397078774	CMakeFiles/progetto_finale_tnv_xiv.dir/libreriaGenerazioneRandom.c.obj	11d051d71a11984a
+51	66	7439628434814823	clean	657297461e4d84f3
+29	383	7444034397171575	CMakeFiles/progetto_finale_tnv_xiv.dir/libreriaInserimentoControllo.c.obj	9ee846c9835074ed
+265	468	7444034399535277	CMakeFiles/progetto_finale_tnv_xiv.dir/libreriaMacroComuni.c.obj	b4ff6f90d4652e8f
+331	545	7444034400193492	CMakeFiles/progetto_finale_tnv_xiv.dir/libreriaStampa.c.obj	6ee6f5512fa80a47
+11	317	7444681442130026	CMakeFiles/progetto_finale_tnv_xiv.dir/main.c.obj	4edcdbff2561ddf9
+49	347	7444681442509006	CMakeFiles/progetto_finale_tnv_xiv.dir/libreriaFileData.c.obj	c105cd56e8471d8b
+27	369	7444681442289587	CMakeFiles/progetto_finale_tnv_xiv.dir/libreriaStampa.c.obj	6ee6f5512fa80a47
+369	497	7444681445709555	progetto_finale_tnv_xiv.exe	158a8da239b0f453
+18	284	7444839368143406	CMakeFiles/progetto_finale_tnv_xiv.dir/main.c.obj	4edcdbff2561ddf9
+9	181	7444840101532771	CMakeFiles/progetto_finale_tnv_xiv.dir/libreriaFileData.c.obj	c105cd56e8471d8b
+182	413	7444840103260657	progetto_finale_tnv_xiv.exe	158a8da239b0f453
+6	34	7444841899366408	clean	657297461e4d84f3
+131	1047	7539881428579073	CMakeFiles/progetto_finale_tnv_xiv.dir/libreriaInserimentoControllo.c.obj	9ee846c9835074ed
+98	1058	7539881428249959	CMakeFiles/progetto_finale_tnv_xiv.dir/main.c.obj	4edcdbff2561ddf9
+119	1069	7539881428469391	CMakeFiles/progetto_finale_tnv_xiv.dir/libreriaGenerazioneRandom.c.obj	11d051d71a11984a
+1047	1422	7539881437746060	CMakeFiles/progetto_finale_tnv_xiv.dir/libreriaMacroComuni.c.obj	b4ff6f90d4652e8f
+1069	1465	7539881437955508	CMakeFiles/progetto_finale_tnv_xiv.dir/libreriaFileData.c.obj	c105cd56e8471d8b
+1058	1524	7539881437855783	CMakeFiles/progetto_finale_tnv_xiv.dir/libreriaStampa.c.obj	6ee6f5512fa80a47
+1524	2137	7539881442513308	progetto_finale_tnv_xiv.exe	158a8da239b0f453
